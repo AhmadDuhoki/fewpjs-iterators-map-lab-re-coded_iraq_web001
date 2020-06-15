@@ -18,6 +18,7 @@ const titleCased = () => {
       word.toLowerCase()
       .charAt(0)
       .toUpperCase()
+      +
     });
   });
 }
